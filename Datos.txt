@@ -1,2 +1,55 @@
 BIOGRAFIA INTRODUCCIÓN: 
 ¡Hola! Mi nombre es Jarod Mendoza, un apasionado de las tecnologías de la información con 23 años de edad. Desde pequeño, me intrigó el mundo de la tecnología, lo que me llevó a sumergirme en el estudio de esta área fascinante. Actualmente, estoy inmerso en mi formación académica, explorando cada día más sobre las últimas tendencias y avances en este campo. Este blog será mi ventana para compartir mi trayectoria, experiencias y descubrimientos en el mundo de la tecnología. ¡Acompáñenme en este viaje!
+
+CODIGO HTML: 
+<div class="bio-text">
+      <p>¡Hola! Soy Jarod Mendoza, un entusiasta de la tecnología con 23 años de edad. Desde mi infancia, he estado fascinado por el mundo de la tecnología, lo que me impulsó a sumergirme en su estudio apasionante. En la actualidad, me encuentro inmerso en mi formación académica, explorando las últimas tendencias y avances en este campo emocionante.</p>
+      <p>Profesionalmente, tengo el privilegio de trabajar como Desarrollador Junior en Technology Jalex desde febrero de 2022. Aquí, formo parte de un equipo dinámico que desarrolla aplicaciones innovadoras y soluciones tecnológicas. Esta experiencia me ha permitido crecer y aprender de manera significativa en el ámbito laboral.</p>
+      <p>Además, tengo una trayectoria como Organizador de Eventos Tech en la Asociación de Estudiantes de Informática desde el año 2020. Coordinar eventos y conferencias para compartir conocimientos sobre tecnología ha sido una experiencia gratificante y enriquecedora.</p>
+      <p>A través de este blog, deseo compartir mi viaje, experiencias y descubrimientos en el vasto mundo de la tecnología. ¡Los invito a acompañarme en este emocionante viaje donde exploraremos juntos este fascinante campo de la información y la innovación!</p>
+    </div>
+
+CÓDIGO JSON:
+{
+
+  “nombre”: “Jarod Mendoza”,
+
+  “edad”: 23,
+
+  “profesion”: “Apasionado de las tecnologías de la información”,
+
+  “descripcion”: “¡Hola! Mi nombre es Jarod Mendoza, un apasionado de las tecnologías de la información con 23 años de edad. Desde pequeño, me intrigó el mundo de la tecnología, lo que me llevó a sumergirme en el estudio de esta área fascinante. Actualmente, estoy inmerso en mi formación académica, explorando cada día más sobre las últimas tendencias y avances en este campo. Este blog será mi ventana para compartir mi trayectoria, experiencias y descubrimientos en el mundo de la tecnología. ¡Acompáñenme en este viaje!”,
+
+  “experiencia_laboral”: [
+
+    {
+
+      “titulo”: “Desarrollador Junior”,
+
+      “empresa”: “Technology Jalex”,
+
+      “periodo”: “Febrero 2022 – Actualidad”,
+
+      “descripcion”: “Participo en el desarrollo de aplicaciones innovadoras y soluciones tecnológicas dentro de un equipo colaborativo.”
+
+    }
+
+  ],
+
+  “experiencia_personal”: [
+
+    {
+
+      “titulo”: “Organizador de Eventos Tech”,
+
+      “organización”: “Asociación de Estudiantes de Informática”,
+
+      “periodo”: “2020 – Actualidad”,
+
+      “descripcion”: “Coordinación de eventos y conferencias para compartir conocimientos sobre tecnología.”
+
+    }
+
+  ]
+
+}
